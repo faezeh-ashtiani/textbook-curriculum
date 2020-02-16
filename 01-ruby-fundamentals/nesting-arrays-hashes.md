@@ -72,7 +72,7 @@ puts salad[:name]
 # object! Changes to one will be seen through the other.
 # More on this idea later.
 salad[:price] = 7.25
-puts menu[0]
+puts menu[0][:price]
 # => 7.25
 
 # Array inside a hash inside an array - woah!

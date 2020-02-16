@@ -177,7 +177,7 @@ Example: We may test that the `calculate_sales_tax(cost)` method gracefully hand
 
 **An edge test case** is a type of test case that verifies that the method can work successfully, even given non-obvious context. This **is the test case that verifies that the method works, even with very unexpected context.**
 
-A test suite, comprised of many test cases, may have many nominal test cases.
+A test suite, comprised of many test cases, may have many edge test cases.
 
 #### Positive Edge Cases and Negative Edge Cases
 
